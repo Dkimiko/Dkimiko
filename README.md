@@ -15,9 +15,9 @@ Backend básico: PHP, MySQL / SQL
 ## GitHub stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dkimiko&theme=dark)](https://git.io/streak-stats)
 
-### 🎯 Fun GIF
+
 <div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
+  <img height="150" src="https://media.tenor.com/Lu3ZB5FTDdwAAAAi/duong2.gif" alt="fun gif" />
 </div>
 
 ---
